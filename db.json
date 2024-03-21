@@ -2440,106 +2440,184 @@
       "id": 4
     },
     {
-      "review": "id ?",
-      "rating": 0,
+      "genre_ids": [
+        80,
+        28,
+        53
+      ],
+      "movieId": "1227816",
+      "original_language": "en",
+      "overview": "Cash is trying to live a quiet, honest life in a small Appalachian town. When a vicious crime boss forces him back into her services, he soon learns he's capable of anything -- even killing -- to protect his family and his home.",
+      "poster_path": "/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg",
+      "title": "Red Right Hand",
+      "review": "something",
       "id": 5
     },
     {
-      "review": "sdsdfsdf",
-      "rating": 0,
+      "genre_ids": [
+        80,
+        28
+      ],
+      "movieId": "370464",
+      "original_language": "en",
+      "overview": "The journey of a professional wrestler who becomes a small town pastor and moonlights as a masked vigilante fighting injustice. While facing crises at home and at the church, the Pastor must evade the police and somehow reconcile his violent secret identity with his calling as a pastor.",
+      "poster_path": "/zlT1Tc9hA1Ntye5hr7Gxos9U6U9.jpg",
+      "title": "The Masked Saint",
+      "review": "hello",
       "id": 6
     },
     {
-      "review": "dfgdfhdfhdh",
-      "rating": 0,
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "movieId": "609681",
+      "original_language": "en",
+      "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "poster_path": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "title": "The Marvels",
+      "review": "hohoho",
       "id": 7
     },
     {
-      "review": "dsgdgsds",
-      "rating": 0,
+      "genre_ids": [
+        28,
+        53,
+        10752
+      ],
+      "movieId": "969492",
+      "original_language": "en",
+      "overview": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
+      "poster_path": "/lYwjlcBjokC9EhfzfAOkTMQd5Ku.jpg",
+      "title": "Land of Bad",
+      "review": "rubbish",
       "id": 8
     },
     {
-      "review": "sfdsg",
-      "rating": 0,
+      "genre_ids": [
+        80,
+        28,
+        53
+      ],
+      "movieId": "1227816",
+      "original_language": "en",
+      "overview": "Cash is trying to live a quiet, honest life in a small Appalachian town. When a vicious crime boss forces him back into her services, he soon learns he's capable of anything -- even killing -- to protect his family and his home.",
+      "poster_path": "/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg",
+      "title": "Red Right Hand",
+      "review": "bananas",
       "id": 9
-    },
-    {
-      "review": "iugiug",
-      "rating": 0,
-      "id": 10
-    },
-    {
-      "review": "jjjj",
-      "rating": 0,
-      "id": 11
-    },
-    {
-      "review": "hhhhhh",
-      "rating": 0,
-      "id": 12
-    },
-    {
-      "review": "it was bad",
-      "rating": 0,
-      "itemId": 1028703,
-      "id": 13
-    },
-    {
-      "review": "heres a new review for the film attack. The film was rubbish.",
-      "rating": 0,
-      "itemId": 799155,
-      "id": 14
-    },
-    {
-      "review": "wonka was a film",
-      "rating": 0,
-      "itemId": 787699,
-      "id": 15
-    },
-    {
-      "review": "hungry for more ",
-      "rating": 0,
-      "itemId": 695721,
-      "id": 16
-    },
-    {
-      "review": "dsdsdssdf",
-      "rating": 0,
-      "itemId": 1046090,
-      "id": 17
-    },
-    {
-      "review": "hello, you are seeing a review. ",
-      "rating": 0,
-      "itemId": 969492,
-      "id": 18
-    },
-    {
-      "review": "i liked it very much and i fell asleep while watching which is a good indicator that the movie was very good",
-      "rating": 4,
-      "itemId": 1211483,
-      "id": 19
-    },
-    {
-      "review": "a terrible prequel to 101 Dalmatians",
-      "rating": 1,
-      "itemId": 949697,
-      "id": 20
     },
     {
       "genre_ids": [
         16,
-        35,
-        18,
         10751
       ],
-      "id": "838240",
-      "original_language": "xx",
-      "overview": "Dog lives in Manhattan and he's tired of being alone. One day he decides to build himself a robot, a companion. Their friendship blossoms, until they become inseparable, to the rhythm of 80's NYC. One summer night, Dog, with great sadness, is forced to abandon Robot at the beach. Will they ever meet again?",
-      "poster_path": "/vSzOobYVu16MogSALNg1bjTaGc.jpg",
-      "title": "Robot Dreams",
-      "review": "this was a film"
+      "movieId": "1205781",
+      "original_language": "en",
+      "overview": "It’s Dora, the world’s most famous exploradora, like you’ve never seen her before! Join her and ALL her friends for BRAND NEW, magical adventures in the rainforest!",
+      "poster_path": "/zN3BO43b0JAn1ZCpbwBH6KEP56U.jpg",
+      "title": "Dora: Say Hola to Adventure!",
+      "review": "uyfuyfuyvfuy",
+      "id": 10
+    },
+    {
+      "genre_ids": [
+        28,
+        12,
+        878,
+        14,
+        18
+      ],
+      "movieId": "624091",
+      "original_language": "id",
+      "overview": "Alana discover the truth about her origin: she’s not an ordinary human being. She may be the gift for humanity and become its protector as Sri Asih. Or a destruction, if she can’t control her anger.",
+      "poster_path": "/wShcJSKMFg1Dy1yq7kEZuay6pLS.jpg",
+      "title": "Sri Asih",
+      "review": "decent film with a good plot.",
+      "id": 12
+    },
+    {
+      "genre_ids": [
+        28,
+        18,
+        80
+      ],
+      "movieId": "944401",
+      "original_language": "en",
+      "overview": "A boy, bruised by life, finds his salvation through the love of his dogs.",
+      "poster_path": "/yZGdlrKxglrWciRl0Rs6lAjfPHM.jpg",
+      "title": "Dogman",
+      "review": "I dont like dogs.... or men. But the film was ok.",
+      "id": 13
+    },
+    {
+      "genre_ids": [
+        28,
+        18,
+        80
+      ],
+      "movieId": "944401",
+      "original_language": "en",
+      "overview": "A boy, bruised by life, finds his salvation through the love of his dogs.",
+      "poster_path": "/yZGdlrKxglrWciRl0Rs6lAjfPHM.jpg",
+      "title": "Dogman",
+      "review": "Dogville was better.",
+      "id": 15
+    },
+    {
+      "genre_ids": [
+        80,
+        28,
+        53
+      ],
+      "movieId": "1227816",
+      "original_language": "en",
+      "overview": "Cash is trying to live a quiet, honest life in a small Appalachian town. When a vicious crime boss forces him back into her services, he soon learns he's capable of anything -- even killing -- to protect his family and his home.",
+      "poster_path": "/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg",
+      "title": "Red Right Hand",
+      "review": "cabbage is soporific as outlined in peter rabbit by that woman i cant remember the name of. If your still readin this its just because im trying to write a review long enough to see how the extent of my div handles a long piece of text and also i have been drinking x",
+      "id": 16
+    },
+    {
+      "genre_ids": [
+        14,
+        12,
+        28
+      ],
+      "movieId": "763215",
+      "original_language": "en",
+      "overview": "A young woman's marriage to a charming prince turns into a fierce fight for survival when she's offered up as a sacrifice to a fire-breathing dragon.",
+      "poster_path": "/sMp34cNKjIb18UBOCoAv4DpCxwY.jpg",
+      "title": "Damsel",
+      "review": "one review",
+      "id": 17
+    },
+    {
+      "genre_ids": [
+        18,
+        36
+      ],
+      "movieId": "872585",
+      "original_language": "en",
+      "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+      "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "review": "what a good film that was",
+      "id": 18
+    },
+    {
+      "genre_ids": [
+        10751,
+        16,
+        35
+      ],
+      "id": "456",
+      "original_language": "en",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+      "first_air_date": "1989-12-17",
+      "review": "ddddd"
     }
   ]
 }
